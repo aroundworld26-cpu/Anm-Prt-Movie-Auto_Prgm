@@ -1,6 +1,6 @@
 moviepy==1.0.3
 numpy==2.4.4
-pandas==3.0.1
+pandas==2.2.3
 Pillow==12.1.1
-python_pptx==1.0.2
+python-pptx==1.0.2
 streamlit==1.55.0
